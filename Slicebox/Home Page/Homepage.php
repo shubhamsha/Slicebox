@@ -13,9 +13,7 @@
 <body>
 	<div class="container">
 		<header class="codrops-header">
-			
 			<h1>Welcome To DSLR Brands Image Slider<span>by <a href="https://www.facebook.com/cool.sheerysharma">Shubham Sharma</a></span></h1>
-            <span> & <a href="https://www.facebook.com/profile.php?id=100010163133793">Mandeep Kaur</a></span>
 		</header>
 		<div class="menu">
 			<div class="menu-bg js-blur"></div>
