@@ -1,0 +1,52 @@
+Sony Cyber-shot DSC-RX10 key features
+
+20MP 1"-type BSI CMOS sensor (13.2 x 8.8mm)
+24-200mm equivalent stabilized F2.8 lens
+Weather-sealed magnesium alloy body
+Manual zoom and aperture rings
+Tilting 1.23 million dot rear LCD
+1.44M dot OLED viewfinder
+ISO 125 - 12800 (expandable down to ISO 80)
+Built-in 3EV Neutral Density filter
+Approx 10 fps continuous shooting in 'Speed Priority mode'
+1080/60p video with full-sensor sampling, uncompressed HDMI output
+Wi-Fi with NFC
+Of course, a lot of time has passed since the R1 was launched, so it's no surprise that the RX10 is a more capable camera. However Sony says it has added a lot over even the RX100 II launched earlier this year. For example by using the same Bionz X processor as the Alpha 7 and 7R, it gains more sophisticated image processing. Significantly it also gains a built-in 3EV neutral density filter, meaning you can make use of that F2.8 maximum aperture, even in bright light.
+
+The RX10 also becomes the first Sony to feature a 'Direct Drive SSM' 
+<br/>focus motor, which uses piezoelectric materials to position the focus 
+<br/>element, rather than linear motors. The company says this allows the 
+<br/>lens to be both moved and stopped more accurately - reducing focus times. 
+<br/>The lens also has a pretty reasonable close-focus distance, that 
+<br/>increases from 3cm at the wide-angle end to 30cm at the other extreme 
+<br/>(giving magnification ratio of 0.45x and 0.38x respectively).
+
+<br/>Sony appears to have been thinking about more than just stills when it made this cameras - 
+<br/>the RX10 offers one of the most extensive lists of features for videographers we've seen on 
+<br/>any camera. The big news here is that the camera uses every pixel on the sensor to create video 
+<br/>(instead of sub-sampling), which dramatically reduces moiré. Other video features include step-less 
+<br/>aperture control, headphone and mic sockets, focus peaking, zebra exposure warning, and uncompressed video output.
+
+<br/>The only problem is likely to be trying to convince anyone to spend so much on a compact camera. Because, while 
+<br/>it was relatively easy to make the argument that the RX100 was worth nearly twice as much as a Canon PowerShot 
+<br/>S110 (given it had a sensor three times larger) it's a little harder to explain to people why they should pay 
+<br/>$1299 for a zoom compact - no matter how capable.
+
+<br/>That's always a problem with camera trying to carve out its own niche: you don't have easy reference points to compare it to. 
+<br/>So, while the RX10 is rather large and expensive compared to other compacts, it's also a camera that offers a unique combination 
+<br/>of capabilities, for shooting both video and stills. The question is whether that combination of needs exists.
+
+So what's the big deal?
+
+<br/>Part of the problem with trying to explain why the RX10 costs so much 
+<br/>(and we're still not sure why it costs quite so much), is that it requires 
+<br/>you to understand not just the equivalent focal length range and aperture, 
+<br/>but also the effect of sensor size.
+
+This understanding isn't necessarily helped by the use of 
+F-numbers to describe aperture. In terms of exposure (and by definition), 
+F2.8 = F2.8 = F2.8. However, that doesn't tell the whole story. In terms 
+of depth-of-field and total light projected onto the sensor
+ you also need to consider sensor size - otherwise the 24-200mm 
+equivalent F2.8 lens on this camera doesn't sound any more impressive 
+than a camera half the size and, more importantly, less than half the price.

@@ -1,0 +1,253 @@
+Nikon D300S
+Overview
+
+Nikon updated one of the most well-received digital SLRs on the market with the Nikon D300S, 
+a digital SLR with the same 12.3-megapixel sensor, a slightly faster frame rate, and HD Video 
+capture capability, among other improvements, all for the same $1,799.95 price tag.
+In August 2007, Nikon launched the D300, which offered 12.3-megapixel resolution from 
+a DX format image sensor roughly equal in size to a frame of APS-C film. Sensitivity 
+could be extended as high as ISO 6,400 equivalent, and the Nikon D300 featured a 
+weather-sealed body, 100% viewfinder coverage, a 920,000-dot LCD display with 
+live-view capability, plus six frames-per-second burst shooting. The Nikon D300's 
+feature set was robust enough not only to serve the enthusiastic amateur photographer,
+but also to prove attractive to pros looking for an extra camera body without breaking the bank.
+Two years down the road, Nikon refreshed the D300 design with the Nikon D300S, incorporating 
+almost the entire feature set of the previous camera plus several must-have features to 
+compete with the latest cameras.
+
+
+
+
+D300S vs D300 Differences:
+
+1280 x 720p HD video recording at 24 fps
+Built-in mono microphone with adjustable gain
+External 3.5mm stereo mic jack
+Contrast-detect AF during videos
+7 fps vs 6 fps top burst speed (8 fps for both with battery grip)
+Slightly faster AF performance
+Dual CF Type I and SD card slots vs single CF Type I/II
+Wider built-in flash coverage (16mm vs 18mm)
+Dedicated Live View button
+Dedicated Info button
+Multi-selector center button
+Quiet shutter release mode
+Sliding memory card door vs locking swing type
+Mini HDMI Type-C vs Type-A connector
+Composite A/V output vs composite video only output
+Virtual horizon display
+Optional framing grid in Live View mode
+Icon bar menu below Shooting Info display for quick access to some settings
+Extra-high and Auto Active D-Lighting settings
+Active D-Lighting bracketing
+Face detection during playback
+In-camera RAW processing and image resizing
+In-camera movie trimming
+72-image thumbnail view in playback mode
+Battery life CIPA rated at 950 shots per charge vs 1,000
+Other minor changesD300S vs D300 Differences:
+
+1280 x 720p HD video recording at 24 fps
+Built-in mono microphone with adjustable gain
+External 3.5mm stereo mic jack
+Contrast-detect AF during videos
+7 fps vs 6 fps top burst speed (8 fps for both with battery grip)
+Slightly faster AF performance
+Dual CF Type I and SD card slots vs single CF Type I/II
+Wider built-in flash coverage (16mm vs 18mm)
+Dedicated Live View button
+Dedicated Info button
+Multi-selector center button
+Quiet shutter release mode
+Sliding memory card door vs locking swing type
+Mini HDMI Type-C vs Type-A connector
+Composite A/V output vs composite video only output
+Virtual horizon display
+Optional framing grid in Live View mode
+Icon bar menu below Shooting Info display for quick access to some settings
+
+
+
+
+
+
+
+Design. Weighing about 1.85 pounds (840g), the Nikon D300S is only a half an ounce 
+(15g) heavier than the D300. Dimensions and overall appearance are essentially the same, 
+with only a few differences, noted below.
+
+
+Extra-high and Auto Active D-Lighting settings
+Active D-Lighting bracketing
+Face detection during playback
+In-camera RAW processing and image resizing
+In-camera movie trimming
+72-image thumbnail view in playback mode
+Battery life CIPA rated at 950 shots per charge vs 1,000
+Other minor changes.
+
+
+
+Most of the changes are visible here, though not overly obvious. 
+First is the Live view (Lv) button that rests somewhat awkwardly 
+just right of the LCD and upper left of the AF point selector switch. 
+They also added an Info button just below that. The formerly clumsy 
+Rear multi-selector disk has been graced with a center button, 
+first seen on the Nikon D3. The memory card door omits the cumbersome 
+switch in favor of a sliding design. Those who use both Canon and Nikon 
+cameras on a daily basis will be pleased with this change. And finally, 
+the nine-holes for the speaker peek out from the lower right corner, 
+a good location that still allows you to hear while holding the camera.
+
+The thumbgrip pad is a little smaller, and there are other minor tweaks 
+here and there to angles and surfaces, but those are the major changes, 
+just enough to get the job done for the real changes in the Nikon D300S.
+
+
+
+
+
+The D300S has a strong magnesium alloy body for a rock-solid feel. 
+It is sealed to keep dust and moisture out, and the optional battery 
+grip is built of the same material. The Nikon D300S is a handful, 
+but its greater surface area allows more room for all the buttons 
+and dials I find so useful when taking pictures. It may not be the 
+best camera for portability or casual travel, but if your purpose 
+for traveling includes photography, you won't mind the extra bulk.
+Movie mode. It seems like camera manufacturers are grafting HD 
+movie mode into all but the least expensive digital SLRs. Indeed, 
+the Nikon D300S seems to have been created for this very feature, 
+given the D300's continued relevance as a still camera.
+Operation is similar to that of the Nikon D90, but with a couple 
+of key differences. Movies are captured as Motion JPEG compressed 
+AVI files, with a frame rate of 24 frames per second. At the full 
+movie-mode resolution of 1,280 x 720 pixels, the Nikon D300S can 
+capture clips as long as five minutes. At a reduced resolution of 
+either 640 x 424 or 320 x 216 pixels, the clip length is limited 
+to a maximum of twenty minutes. Maximum movie file size is 2GB, 
+but may be limited by recording time.
+Unlike the Nikon D90, which was restricted solely to an internal 
+monaural microphone, the D300S offers the ability to connect an 
+external microphone, courtesy of a 3.5mm stereo input jack located 
+under the rubber flap on the camera's left side (as seen from the rear). 
+Also unlike the D90, the D300S's microphone amplifier has adjustable 
+sensitivity (3 levels), along with Auto and Off settings. Contrast-detect 
+autofocusing is also now possible during movie recording, although it 
+should be noted that this will probably require the use of an external 
+microphone, since lens motor noise during focusing will be picked up by 
+the camera's internal microphone. It is possible to apply Nikon's Picture 
+Controls to videos while recording with the Nikon D300S, allowing for the 
+tone and color to be altered, for example. Picture Controls and color space 
+must be set prior to recording.
+
+Another difference from the D90 is that the Nikon D300S offers limited 
+in-camera movie editing capabilities. It is possible to set both start 
+and end points on an existing movie clip, and then discard everything 
+beyond these points. The result can be saved as a separate video file 
+to either the CF or SD card as desired, while the full-length original 
+video is left unchanged.
+
+
+
+
+
+
+
+
+
+Dual card capability. Another bit of big news is the Nikon D300S' dual memory card slots, 
+with one slot accepting Type-I CompactFlash cards, and the other compatible with Secure 
+Digital media, including the higher-capacity SDHC cards. Interestingly, the latter slot 
+is compatible with Eye-Fi's Wi-Fi capable SD cards, giving the D300S the ability to 
+transfer images across 802.11b/g networks. To offer dual card slots without increasing 
+the size of the camera, the Nikon D300S has dropped support for Type-II CompactFlash cards 
+and Microdrives. With Type-I CF cards offering huge capacities at very affordable prices, 
+and only a few adapters available in Type II, this compromise is sensible.
+Either card slot in the Nikon D300S can be set as the primary at the user's option, 
+and data can be copied between cards in-camera. Once configured, the secondary card 
+slot can serve as an overflow when the primary card's capacity is reached, or images 
+can be simultaneously recorded to both cards to provide an immediate backup. 
+Alternatively, the Nikon D300S can be set to record NEF RAW image files to one card, 
+and JPEG compressed images to the other. It is also possible to configure the Nikon D300S 
+to record still images to one card, and movie clips to the other.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New HDMI port. The high definition HDMI output connector has been changed from the larger Type-A jack to a smaller Type-C jack. 
+
+
+The standard definition composite video port is now a combined audio/video output.
+Frame rate. When shooting with the Nikon D300S's internal EN-EL3e battery, the still 
+image burst-mode shooting rate has increased slightly to seven frames per second, 
+up from six frames-per-second in the D300. If Nikon's MB-D10 multi power battery grip 
+is fitted with an EN-EL4a battery and attached to the Nikon D300S, the burst mode rate 
+improves further to eight frames-per-second -- a top speed that is unchanged from that 
+of the D300. When shooting in 14-bit RAW mode, the top capture speed is about 2.7 frames 
+per second.Flash. According to Nikon, the wide-angle coverage of the built-in popup flash 
+strobe has improved to 16mm, although the guide number of the flash is unchanged. 
+The flash can still be used as a master controller in the Nikon Creative Lighting System.
+Autofocus. The Nikon D300S retains the same 51-point Multi-CAM 3500DX phase detection 
+autofocus sensor module found in the original D300, but Nikon is describing both autofocus 
+speed and accuracy as having been improved in the D300S. The D300S also gains a new Quiet 
+Shutter release mode, which separates firing of the shutter from advance of the shutter 
+mechanism to reduce the noise level generated during shutter release.
+
+
+
+
+
+
+
+
+
+Battery. The Nikon D300S uses the same EN-EL3e battery, which is CIPA rated at 950 shots on a single charge (down slightly from the D300's 1,000 shots). The optional MB-D10 Multi-Power Battery Pack adds about one frame per second (with a higher capacity lithium-ion battery), taking the D300S to 8 fps. But it also allows a battery to be kept in the camera body to supplement the battery grip's input. Other designs use a tower that goes up into the battery compartment, which introduces a few problems, including packing an L-shaped grip in a camera bag when it's not in use. The MB-D10 is easier to use, and packs well.
+
+The reason it's called a Multi-Power Battery Pack is that takes multiple types of batteries, including an EN-EL3e, 8 AA cells, or an EN-EL4a, the same lithium-ion battery that the Nikon D3S and D3X use. Now we're talking power: 11.1v 2500mAh to be exact.
+
+Active D-Lighting. Nikon's Active D-Lighting technology has also been updated for the D300S, with two new settings available on top of the previous Off, Low, Normal, and High positions. Active D-Lighting can now be set to Extra High, or to Auto, which will allow the camera to choose which level it feels is appropriate to the scene being photographed. Active D-Lighting can now also be bracketed with anywhere from two to five frames.
+
+Processing and playback. It is now possible to process .NEF Raw image files in-camera. The rear-panel LCD's function menu has also been improved, and the Nikon D300S now offers the 72-image thumbnail display option in Playback mode, which was previously seen in the Nikon D90. The Nikon D300S's Playback mode also offers the ability to automatically zoom in on human faces in playback mode, allowing subjects to be quickly checked for accurate focus and exposure. IPTC info can now be recorded in EXIF metadata, and the Nikon D300S offers a virtual horizon indicator function as well.
+
+One final change relates to the product bundle and addition of a video mode -- the Nikon D300S now comes with an EG-D2 audio/video cable, rather than EG-D100 video cable that was included with the D300.
+
+The Nikon D300S started shipping in the USA in late August 2009. List pricing is set at US$1,799.95.
+
+ 
+
+Nikon D300S
+User Report
+
+by Shawn Barnett
+
+Ease. I can't put it any clearer than to say that the Nikon D300S is one of a few quintessential photographer's cameras. Even after a few months without shooting a Nikon D300 or D700, I feel right at home when I pick up the Nikon D300S. I flip on the power, press the WB and ISO buttons on the left and verify status of each on the Status LCD, make changes, verify resolution, and start shooting. The buttons are all clearly marked on the back, and the Nikon D300S just feels like a serious camera, as ready to take pictures as I am.
+
+I appreciate a few of the changes Nikon made to the D300S, but just as much I'm thankful for what they didn't change. The grip is fantastic, with a clear indent for my fingertips, and an aggressive thumb grip on the back. I am glad they put a button in the center of the nav disk, and moving Live view to a button instead of the Drive mode dial makes more sense overall. And though it's slower than the CF card slot, I'm glad Nikon added an SD-card slot.
+
+As I set out to gather my usual Gallery shots, I left the nice 70-200mm f/2.8G II lens behind to save weight. Instead I mounted the DX 18-200mm that's sometimes bundled as a kit lens, expecting only the same old subjects I shoot all the time. The first bit of my walk was spent among dozens of robins rummaging loudly in piles of fallen leaves, but before long the woods around me fell quiet, and I was about to find out why. As I rounded a corner at a slow pace, I felt a forceful presence pressing on my left shoulder: it was that primitive reflex that tells you you're being watched. I slowed my pace and looked left. My eyes landed right on him: a large Broad-winged hawk, only about 25 feet away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

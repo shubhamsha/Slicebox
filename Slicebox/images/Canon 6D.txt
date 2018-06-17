@@ -1,0 +1,72 @@
+PRODUCT HIGHLIGHTS
+
+20.2MP Full-Frame CMOS Sensor
+DIGIC 5+ Image Processor
+3.0" 1.04m-Dot Clear View LCD Monitor
+Full HD 1080p Video Recording at 30 fps
+
+
+
+
+
+
+The Canon EOS 6D is a full-frame 20.2MP DSLR offering exceptionally high image quality and detail while providing compatibility and convenience through its design and features. When paired with the powerful DIGIC 5+ image processor and 14-bit A/D conversion, the full-frame sensor is capable of recording vivid imagery with expanded sensitivity up to ISO 102400. The processing power also affords intelligent noise reduction techniques and the ability to record continuous still images at a rate up to 4.5 full resolution fps.
+
+The 6D employs an 11-point autofocus system for acquiring precise focus regardless of the shooting situation, which is further enhanced by a center cross-type focus point for improved low-light focus sensitivity. The iFCL 63-zone dual layer metering sensor also benefits from the autofocus system when making exposure measurements, and analyzes color and luminance values within the scene to determine accurate exposure settings.
+
+Full HD video recording is possible up to 1080/30p in the All I-frame or IPB compression, as well as the standard H.264/MPEG-4 AVC codec. When recording HD video, full manual control over exposure and sound is possible, enabling you to take complete control over the final appearance of your movies.
+
+Built-in Wi-Fi and GPS technologies also provide extensive connectivity to the 6D. The built-in Wi-Fi capability allows you to take remote control over the 6D when used in conjunction with the Canon EOS Remote app (available for iOS and Android), as well as instantly share the images from your camera to your phone or to the CANON iMAGE GATEWAY. The GPS receiver will automatically record locational data and embed this information into the metadata of your images, allowing you to geotag your shots and map out where each shot was taken.
+
+The 6D features a smaller form factor compared to other full-frame DSLRs, but still integrates a large 3.0" 1,040K-dot TFT LCD monitor for clear playback and review of your imagery. The construction of the body integrates an aluminum alloy and polycarbonate chassis within a magnesium and polycarbonate shell for durability while still maintaining a lightweight profile.
+
+20.2 Megapixel Full-Frame CMOS Sensor, 14-Bit A/D Conversion, DIGIC 5+ Image Processor
+The large full-frame 20.2 megapixel CMOS sensor offers a high level of image quality with attention given to sharpness, detail, and depiction of colors and tones within a scene. Due to increased information and detail, a larger sensor is capable of producing greater visual depth and smoother gradients and tonal transitions. Additionally, a large sensor provides more leeway to control the plane of focus and apply selective focus techniques.
+
+This sensor delivers images with a maximum resolution of 5472 x 3648 pixels, with a pixel size of 6.55 µm square, for greater reception of light and a higher signal-to-noise ratio. This pixel structure works in close collaboration with the DIGIC 5+ image processor, and its 14-bit A/D conversion, to produce a native sensitivity range of ISO 100-25600, which can be further expanded to ISO 50-102400.
+
+In addition to contributing to the low-light sensitivity, the DIGIC 5+ processor also delivers overall speed and power to the 6D and utilizes dual 4-channel A/D converter front-end processing circuits for expedited conversion of both JPEG and RAW file formats. This enables a maximum continuous shooting rate of 4.5 full resolution frames-per-second as well as greater noise reduction when working at higher ISOs. The DIGIC 5+ processor also provides real-time compensation for chromatic aberration when working with both still and moving imagery.
+11-Point Autofocus System
+The 6D integrates an 11-point AF system for fast and precise focusing regardless of your subject matter or working situation. These 11 points provide even coverage across the entire frame while a more refined center cross-type point with EV -3 sensitivity provides more efficient, accurate low-light focusing. One-shot AF, AI Servo AF, and AI Focus AF are all available depending on one's needs, and furthermore the AI Servo mode is customizable in regard to focus tracking, acceleration, and deceleration sensitivities, as well as 1st or 2nd image priority adjustments. Lens data can also be entered and customized within the camera for greater focus refinement when working with wide-angle or telephoto lenses.
+
+Also contributing to sharp focus, the 6D incorporates a large, bright pentaprism viewfinder with 21mm eye point and 97% frame coverage for clear viewing of the scene. This construction greatly benefits the manual focusing capabilities, as well as general low-light composition.
+iFCL 63-Zone Dual Layer Metering Sensor
+An intelligent metering system works in conjunction with the autofocus system and independently analyzes focus, color, and luminance within the scene for the most precise exposure settings possible. The 63 zones cover the entire image area with great detail and the dual-layer design permits a wider sensitivity to different wavelengths of light.
+
+The dual layers are split into a red/green channel and a blue/green channel; which counters the red light sensitivity bias electronic sensors inherently have. A series of algorithms are employed to combine data received from both layers, with the resulting exposure reading being extremely accurate regardless of the shooting conditions.
+
+This metering system employs evaluative, center-weighted, and spot metering methods to determine exposure, as well as allowing for a +/- 5 EV exposure compensation for greater manipulation of the determined exposure setting.
+EOS HD Video
+Full HD video recording is supported in multiple formats, including 1080/30p, 24p, 25p; 720/60p, 50p; 480/60p, 50p. While recording video, a 4GB automatic file partition is employed in order to gain longer continuous recording times, up to 29 minutes 59 seconds. Both All I-frame (requires UHS-I memory card) and IPB compressions are supported as well as the standard H.264/MPEG-4 AVC codec. Embedding the time code is also possible for greater convenience when recording with multiple cameras.
+
+Video performance is further enhanced with the ability to manually adjust your exposure settings and audio levels; exposure can be adjusted using both aperture and shutter speed variables, and sound can be managed through a 64-level volume control. Additionally, an external stereo microphone can be used and is connected through the 3.5mm microphone terminal.
+
+The DIGIC 5+ processor also dramatically improves video response times and helps to reduce color artifacts, aberrations, and moiré while providing the ability to record with sensitivities up to ISO 25600 in H mode.
+Built-In Wi-Fi and GPS
+Built-in Wi-Fi and GPS technologies enable highly functional connectivity with other devices, including the ability to instantly share imagery from your camera and geotag your photographs.
+
+Exposure settings can be controlled remotely from your smartphone when using Canon's proprietary iOS and Android app, Canon EOS Remote, allowing you to make exposures and modify camera settings from a distance. You can also review imagery from your camera on your smart device, and transfer files wirelessly. Full DNLA (Digital Living Network Alliance) compatibility is supported, which enables you to share your images from the 6D with other household products such as HDTVs, tablets, and other Wi-Fi-enabled Canon cameras. You are also able to upload still images directly to CANON iMAGE GATEWAY, allowing you to then easily share images with social networking sites without the use of a computer.
+
+The GPS receiver functions similarly and is able to record locational data (longitude, latitude, altitude, and universal coordinated time) as EXIF data which is then embed into your image files. This then permits you to track where your images were recorded and view your exact route traveled.
+Efficient Design
+The EOS 6D contains a large full-frame sensor within a compactly-sized body for greater portability without sacrificing image quality. The body features an aluminum alloy and polycarbonate chassis with a magnesium and polycarbonate exterior for durability. The shutter rated up to 100,000 cycles.
+
+Also contributing to the efficiency of design, an Integrated Cleaning System permits internal dust removal. To counter the effects of dust within the housing, the glass filter is cleaned through ultrasonic vibration and the dust particles are collected by an adsorbent. This unit is completely sealed from external contaminants, and the optical low-pass filter features an anti-dust fluorine coating for ease in removing more substantial dust particles.
+3.0" Clear View LCD Monitor
+The 3.0" Clear View TFT LCD provides high quality viewing with a 1,040,000-dot resolution and anti-reflection coating. This allows for sharp and clear viewing in even the brightest of conditions and displays images and videos with great detail and richness. The display also features a viewing angle up to 160° for review from the side or below.
+
+When used in conjunction with Live View mode, a smaller display is superimposed over the image. Live View mode permits real-time image review and can also place grid lines over the image for compositional help. A built-in electronic level is available for maintaining consistent horizons or for lining up parallel lines within a scene. You can also zoom into and navigate within the image when in Live View and use the grid lines for minute control and precision over the alignment of your photograph.
+Built-In HDR and Multiple Exposure Modes
+A High Dynamic Range (HDR) mode is available and allows for the creation of HDR images in-camera, reducing the time needed to manually overlay images in post-production. When using this mode, a series of bracketed exposures are made of the same image, then automatically integrated into the same frame, resulting in a photograph without blown highlights or blocked up shadows and a long middle range of tones. This mode is especially useful when photographing scenes with a great deal of contrast.
+
+Multiple exposures are also possible in-camera and up to 9 exposures can be recorded onto a single file using 2 distinct settings for control. When in Additive mode, this closely resembles making multiple exposures on film and layers each exposure; manual exposure compensation is required. Average mode layers the images and automatically compensates for the final exposure, eliminating the unintended possibility of gross under or overexposure. Multiple exposures can be recorded in either JPEG or RAW formats, and furthermore you can utilize an existing RAW image as a starting point from which to layer subsequent images, which can then be manipulated in real time on the LCD.
+Scene Intelligent Auto and Special Scene modes
+Scene Intelligent Auto mode incorporates a number of Canon's automatic exposure technology together in order to output a well-refined exposure. Picture Style Auto, Automatic Lighting Optimizer, Automatic White Balance, Autofocus, and Automatic Exposure are all employed to intelligently analyze the scene at hand and produce the most effective exposure settings to clearly render your subject matter.
+
+Special Scene modes also help to enhance your imagery by applying a system of corrections for use in more difficult lighting situations. Handheld Night Scene automatically captures four consecutive exposures, at shutter speeds fast enough to handhold, and layers them into a single frame. This allows you to effectively record images in darker situations without the need of a tripod or stabilization device. HDR Backlight Control works in the same manner and records a series of exposures at different values to ensure highlight and shadow values are not lost. These under and over-exposed images are blended to create a final image with a wider dynamic range.
+Other Features
+Compatible with SD, SDHC, and SDXC, including Ultra High Speed (UHS-I), memory cards.
+Peripheral illumination, chromatic aberration, and distortion corrections are available and programmable through a menu of different available EF lenses. This lens data is used to automatically correct for each individual lens' traits to produce the cleanest image possible.
+In-camera RAW processing and JPEG resizing are available to allow for expedited offloading of imagery that is instantly reading for the method in which you intend to share it.
+Comparative playback allows you to view two images side-by-side in order to expedite editing procedures on the camera's LCD.
+Silent shooting is a low-vibration shooting mode that slows and mutes the shutter and mirror reflex, enabling a more discrete method of capturing imagery.
